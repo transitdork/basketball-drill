@@ -8,7 +8,7 @@
 \f0\fs24 \cf0 \{\
   "name": "Basketball Drill Helper",\
   "short_name": "Drill Helper",\
-  "start_url": "basketball-drill.html",\
+  "start_url": "index.html",\
   "display": "standalone",\
   "background_color": "#ffffff",\
   "theme_color": "#007BFF",\
