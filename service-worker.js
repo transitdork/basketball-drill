@@ -9,7 +9,7 @@
   event.waitUntil(\
     caches.open('drill-cache-v1').then(cache => \{\
       return cache.addAll([\
-        'basketball-drill.html',\
+        'index.html',\
         'manifest.json'\
       ]);\
     \})\
